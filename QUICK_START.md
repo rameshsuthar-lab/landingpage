@@ -57,7 +57,7 @@ VITE_API_URL=https://your-backend-url-from-step-3.onrender.com/api
 Your app is now live and working together!
 
 **Backend:** https://your-backend-url.onrender.com  
-**Frontend:** https://your-frontend-url.vercel.app  
+**Frontend:** 0
 
 Test it by opening frontend URL and trying payment flow.
 
